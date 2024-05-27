@@ -1,5 +1,5 @@
 # RSS-Configs
-This repository hosts the latest RSS-Configs for RSS-Reborn, see the [RSS-Reborn Hub](https://github.com/RSS-Reborn/RSS-Reborn) for more information.
+This repository hosts the latest Real Solar System for RSS-Reborn, see the [RSS-Reborn Hub](https://github.com/RSS-Reborn/RSS-Reborn) for more information.
 ![screenshot1944](https://github.com/RSS-Reborn/RSS-Configs/assets/77298148/d4bda161-99e7-4cef-b33e-9490ba52b9a6)
 ![screenshot1870](https://github.com/RSS-Reborn/RSS-Configs/assets/77298148/98acc500-6c0c-47bd-8d21-0c31de7eff83)
 
